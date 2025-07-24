@@ -1,3 +1,9 @@
+// Q2: implement the problem of mvoning on the zeros to the end of the array
+//   given an array of random nos push on the zeros of the given array to the end of array
+//   i/p: 10230420
+//   o/p:12342000
+
+
 public class Assign02{
 public static void moveZeros(int[] arr, int left, int right) {
 if (left >= right) return;
