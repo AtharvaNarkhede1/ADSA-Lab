@@ -1,3 +1,10 @@
+// Q1: implement a problem of zeros
+//   given an array of ones and zeros which has all is followed by zero. find number of zeros and give count of no of zeros in given array 
+//   i/p: 110000
+//   o/p:4
+
+
+
 public class Assign01{
 public static String countZeros(String input) {
 
