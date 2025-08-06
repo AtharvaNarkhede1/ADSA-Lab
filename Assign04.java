@@ -1,4 +1,4 @@
-//find kth largest element in the array
+//find kth largest element in the array [group problem]
 
 import java.util.Random;
 
